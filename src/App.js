@@ -6,6 +6,7 @@ function App() {
     <div className="App">
      <button>Normal Button</button>
      <Button class="btn btn-success">Bootstrap</Button>
+     <Button class="btn btn-danger">Repository</Button>
     </div>
   );
 }
